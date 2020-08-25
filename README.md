@@ -1,2 +1,2 @@
 # holium
-predefined desktop-directory files for xdg-menus
+xdg-menu desktop-directory files
